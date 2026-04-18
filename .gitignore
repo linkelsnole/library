@@ -7,7 +7,7 @@ bin/
 .metadata/
 tmp/
 
-
+# macOS
 .DS_Store
 Thumbs.db
 
