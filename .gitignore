@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+bin/
+.metadata/
+tmp/
+
+
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
